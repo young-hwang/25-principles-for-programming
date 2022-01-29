@@ -1,0 +1,6 @@
+rootProject.name = '25-principles-for-programming'
+include 'gathering'
+include 'test'
+include '01-gathering'
+include '01-01'
+
